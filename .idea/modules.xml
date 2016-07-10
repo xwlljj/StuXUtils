@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StuXUtils.iml" filepath="$PROJECT_DIR$/StuXUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studatabinding/studatabinding.iml" filepath="$PROJECT_DIR$/studatabinding/studatabinding.iml" />
     </modules>
   </component>
 </project>
